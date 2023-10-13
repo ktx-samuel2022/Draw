@@ -1,3 +1,3 @@
 function Tela(){
-    window.location("game.html");
+    window.location = "game.html"
 }
